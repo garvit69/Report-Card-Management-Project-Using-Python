@@ -1,4 +1,3 @@
-#Shreya Shah code 201112204 SEM 3 CSE SEC 2
 import MySQLdb
 import csv
 import random
